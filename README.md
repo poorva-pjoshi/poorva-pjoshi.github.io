@@ -22,7 +22,7 @@
 
 
 ## Projects
-### Expense Analyzer, Data Cisualization
+### Expense Analyzer, Data Visualization
 [Tableau File](/assets/Data_Visualization_NYC_Crime_Data.twbx)
 
 -  Created various dashboards using data visualization tools like Tableau and Qlik by analyzing real-world data provided by the City of Boston to better understand the accounts receivable to the municipality.
