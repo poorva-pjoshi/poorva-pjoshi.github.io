@@ -23,7 +23,7 @@
 
 ## Projects
 ### Expense Analyzer
-[PPT](https://insurancepurchaseprediction.azurewebsites.net/predictdata)
+[PPT](/assets/Data Visualization_NYC Crime Data.twbx)
 
 -  Created various dashboards using data visualization tools like Tableau and Qlik by analyzing real-world data provided by the City of Boston to better understand the accounts receivable to the municipality.
 -  Identified patterns and trends in the spending of the Health Insurance department over the period of 5 years.
