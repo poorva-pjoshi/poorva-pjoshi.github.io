@@ -22,27 +22,29 @@
 
 
 ## Projects
-### Expense Analyzer
-[PPT](/assets/Data Visualization_NYC Crime Data.twbx)
+### Expense Analyzer, Data Cisualization
+[Tableau File](/assets/Data_Visualization_NYC_Crime_Data.twbx)
 
 -  Created various dashboards using data visualization tools like Tableau and Qlik by analyzing real-world data provided by the City of Boston to better understand the accounts receivable to the municipality.
 -  Identified patterns and trends in the spending of the Health Insurance department over the period of 5 years.
--  Identified cost-saving opportunities resulting in a 10% reduction in unnecessary expenditures for the Health Insurance department
+-  Identified cost-saving opportunities resulting in a 10% reduction in unnecessary expenditures for the Health Insurance department.
 
-![Insurance predictor](/assets/img/Vehicle-Insurance-Prediction.png)
-
-### Event Management System
-[Demo Video](https://github.com/Nikhil-Doye/Gemini-Vision)
+### Event Management System, DBMS
+[PDF](/assets/DBMS_EventManagementSystem.pdf)
 
 -  Developed a sophisticated event management system, featuring a meticulously designed relational database using ERD techniques.
 -  Successfully created a seamless attendee registration and speaker coordination process by using MySQL.
 
-![Gemini-Vision](/assets/img/Gemini-Vision.png)
+### Airline Passenger Satisfaction 
+[PDF](/assets/Airline_Passenger_Satisfaction.pdf)
 
-### Top Jobs in the Data Science job market 
-[Insights PPT](/assets/img/Doye_Project4.pptx)
+- The project involved a comprehensive statistical analysis aimed at understanding airline customer satisfaction and predicting flight distances. Team members collaborated to perform exploratory data analysis (EDA), data cleaning, transformation, and visualization using R.
+- Contributed to various aspects of the analysis, including interpreting descriptive statistics, correlation analysis, and implementing regression models to evaluate performance and gain valuable insights.
+- The project's goal was to provide actionable recommendations for enhancing customer experience and informing strategic decision-making in the aviation sector.
 
-- Performed exploratory data analysis about job descriptions from 2020-2023.
-- Completed thorough analysis using R to find out the top 10 job titles for an aspirant targeting entry-level full-time jobs. 
+### Exploratory Analysis and Hypothesis Testing on Government Awards Dataset
+[PPT](/assets/Probability_and_Statistics.pptx)
 
-![Job Title](/assets/img/final.png)
+- Spearheaded exploratory data analysis and hypothesis testing on a government awards dataset, uncovering valuable insights into award distributions, company demographics, and regional variations in award amounts.
+- Led a team in conducting statistical analyses, including t-tests and linear regression modeling, to investigate factors influencing award amounts and assess differences between socially disadvantaged and advantaged companies across states, Georgia and Tennessee.
+- Additionally, utilized data visualization techniques such as bar plots, box plots, and heatmaps to communicate findings effectively.
