@@ -1,27 +1,31 @@
 # Data Analyst
 
-#### Technical Skills: R, SQL, Python, Power BI, Tableau, Java, JavaScript
+#### Technical Skills: Python, R, SQL, Power BI, Tableau, Java, JavaScript
 
 ## Education							       		
 - M.S., Analytics	| Northeastern University (_June 2025_)	 			        		
 - B.E, Electronics and Communication Engineering | Visveswaraya Technological University (_Aug 2020_)
 
-## Work Experience
-**Automation Test Engineer @ Infosys Limited (_June 2021 - July 2023_)**
-- Optimized manual testing efficiency by 5x testing hours through a sophisticated automation framework using Selenium, Java, BDD Cucumber, and Gherkin language.
-- Oversaw and trained a team of 6 in the estimation, planning, development, and automation of the UAT and functional test cases.
-- Executed end-to-end automation testing of European insurance domain-related web applications.
-- Analyzed and documented the reports of automated test cases and framework user guides.
-- Manipulated huge database to extract distinct data types for testing purposes using SQL based on functional specifications.
-
-**Business Analyst @ IMA Management & Technology (_May 2020 - April 2021_)**
-- Spearheaded a project to develop a new modern high-speed company website using WiX by collecting functional specifications, requirements, and documentation in the form of Business Requirement Document (BRD).
-- Eliminated wasted time & achieved a cost reduction equivalent to 20% of the old Project Status Reports (PSR) application's budget by improving business processes, productivity, security & maintainability.
-- Coordinated internal migration initiative wherein was solely responsible for moving the database from G-Suite to M365 and creating a SharePoint for all the client-related PSR.
-- Carried out data analyst duties, including data entry and cleansing for a variety of projects and reports, monitoring and organizing the migrated data and documents, and corresponding with Australian consultants.
-
-
 ## Projects
+### Child Welfare Data Analytics Initiative, XN Project
+- [Visualization 1](https://github.com/poorva-pjoshi/poorva-pjoshi.github.io/assets/163047154/ae753bf5-efab-4fae-bd1d-7c08b1eec1b6)
+- [Visualization 2](https://github.com/poorva-pjoshi/poorva-pjoshi.github.io/assets/163047154/8cbb6b2a-5a15-4494-b90e-44e56b929e63)
+- [Visualization 3](https://github.com/poorva-pjoshi/poorva-pjoshi.github.io/assets/163047154/12d152e3-634d-4ca0-804a-fd3382b8b3b7)
+
+- Created dynamic Tableau dashboards for KARA's book "America's Children in 100 Charts", using data visualization techniques to analyze big data from 2014-2022, including the impact of COVID-19 on child abuse reporting and intervention efforts.
+- Ensured data accuracy and consistency by addressing missing data from NCANDS and Kids Count sources during the pandemic, and visualizing critical metrics such as maltreatment types, agency response times, and demographic distributions.
+
+### NYC Tree Health Forecasting, Big Data Management
+
+- Crafted interactive dashboards with PowerBI and Tableau to analyze urban tree data, and used big data technologies like Hadoop to perform data loading and data cleaning.
+- Engineered predictive models using PySpark and Python with Decision Tree and Random Forest algorithms to assess urban tree health, achieving accuracies of 82.096% and 82.685% respectively.
+
+### Stay or Stray @ DataScience Hub Hackathon (March 2024 - April 2024)
+[Results](https://www.kaggle.com/competitions/stay-or-stray/leaderboard)
+
+- Led a team of 3 members, and secured a Bronze medal among 54 competing teams in a 2-week-long Datathon.
+- Utilized advanced machine learning techniques and attained an F1-score of 0.8653 in predicting student dropout rates from courses.
+
 ### Expense Analyzer, Data Visualization
 [Tableau File](/assets/Data_Visualization_NYC_Crime_Data.twbx)
 
@@ -48,3 +52,17 @@
 - Spearheaded exploratory data analysis and hypothesis testing on a government awards dataset, uncovering valuable insights into award distributions, company demographics, and regional variations in award amounts.
 - Led a team in conducting statistical analyses, including t-tests and linear regression modeling, to investigate factors influencing award amounts and assess differences between socially disadvantaged and advantaged companies across states, Georgia and Tennessee.
 - Additionally, utilized data visualization techniques such as bar plots, box plots, and heatmaps to communicate findings effectively.
+
+
+## Work Experience
+**Data Analyst @ Infosys Limited (_June 2021 - July 2023_)**
+- Integrated APIs captured from automating insurance-domain web applications and stored in JSON format for data analysis.
+- Directed global database migrations using SQL, achieving a 99% match for data validation post-migration, resulting in a $100k reduction in expenses.
+- Orchestrated seamless data warehousing integration using SQL for data-driven reporting and visualizations in PowerBI.
+- Implemented ETL processes to collect, clean, and process data from various sources, leveraging SQL databases for enhanced analytics.
+
+**Business Analyst @ IMA Management & Technology (_May 2020 - April 2021_)**
+- Spearheaded the development of a website solely by gathering data and documenting business requirements.
+- Coordinated internal migration initiative for moving the database from Google Suite to Microsoft 365.
+- Migrated all client-related Project Status Reports to SharePoint, saving 10 hours per week per consultant through automation and achieving a 20% cost reduction by streamlining processes.
+- Carried out data management duties, including data entry, cleansing, and retrieval, and correspondence with Australian consultants.
