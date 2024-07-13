@@ -26,12 +26,11 @@
 - Led a team of 3 members, and secured a Bronze medal among 54 competing teams in a 2-week-long Datathon.
 - Utilized advanced machine learning techniques and attained an F1-score of 0.8653 in predicting student dropout rates from courses.
 
-### Expense Analyzer, Data Visualization
+### NYC Crime Dynamics Dashboard, Data Visualization
 [Tableau Public](https://public.tableau.com/app/profile/poorva.joshi/viz/NYCCrimesin2023/NYCCrimeStory)
 
--  Created various dashboards using data visualization tools like Tableau and Qlik by analyzing real-world data provided by the City of Boston to better understand the accounts receivable to the municipality.
--  Identified patterns and trends in the spending of the Health Insurance department over the period of 5 years.
--  Identified cost-saving opportunities resulting in a 10% reduction in unnecessary expenditures for the Health Insurance department.
+-  Developed multiple interactive Tableau dashboards and compelling data stories for NYC crime data, enhancing data-driven decision-making for policymakers and law enforcement by visualizing key crime trends and demographics.
+-  Reduced analysis time by 40% through the implementation of automated data visualizations, allowing quicker identification of crime hotspots and demographic patterns.
 
 ### Event Management System, DBMS
 [PDF](/assets/DBMS_EventManagementSystem.pdf)
