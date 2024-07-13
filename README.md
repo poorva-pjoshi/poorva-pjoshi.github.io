@@ -10,7 +10,7 @@
 ### Child Welfare Data Analytics Initiative, XN Project
 [Tableau Public](https://public.tableau.com/app/profile/poorva.joshi/vizzes)
 
-- Created dynamic Tableau dashboards for KARA's book "America's Children in 100 Charts", using data visualization techniques to analyze big data from 2014-2022, including the impact of COVID-19 on child abuse reporting and intervention efforts.
+- Created dynamic Tableau dashboards for KARA's book "America's Children in 100 Charts", using data visualization techniques to analyze big data from 2015-2022, including the impact of COVID-19 on child abuse reporting and intervention efforts.
 - Ensured data accuracy and consistency by addressing missing data from NCANDS and Kids Count sources during the pandemic, and visualizing critical metrics such as maltreatment types, agency response times, and demographic distributions.
 
 ### NYC Tree Health Forecasting, Big Data Management
@@ -25,7 +25,7 @@
 [Results](https://www.kaggle.com/competitions/stay-or-stray/leaderboard)
 
 - Led a team of 3 members, and secured a Bronze medal among 54 competing teams in a 2-week-long Datathon.
-- Utilized advanced machine learning techniques and attained an F1-score of 0.8653 in predicting student dropout rates from courses.
+- •	Attained an F1-score of 0.8653 by leveraging advanced machine learning techniques and implementing the data science lifecycle steps to predict student dropout rates from courses.
 
 ### NYC Crime Dynamics Dashboard, Data Visualization
 [Tableau Public](https://public.tableau.com/app/profile/poorva.joshi/viz/NYCCrimesin2023/NYCCrimeStory)
