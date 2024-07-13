@@ -14,6 +14,7 @@
 - Ensured data accuracy and consistency by addressing missing data from NCANDS and Kids Count sources during the pandemic, and visualizing critical metrics such as maltreatment types, agency response times, and demographic distributions.
 
 ### NYC Tree Health Forecasting, Big Data Management
+[Jupyter Notebook](https://github.com/poorva-pjoshi/nyc_tree_health_forecasting_bigdata)
 
 - Crafted interactive dashboards with PowerBI and Tableau to analyze urban tree data, and used big data technologies like Hadoop to perform data loading and data cleaning.
 - Engineered predictive models using PySpark and Python with Decision Tree and Random Forest algorithms to assess urban tree health, achieving accuracies of 82.096% and 82.685% respectively.
