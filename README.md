@@ -47,7 +47,7 @@
 -  Successfully created a seamless attendee registration and speaker coordination process by using MySQL.
 
 ### Exploratory Analysis and Hypothesis Testing on Government Awards Dataset (Oct 2023 - Nov 2023)
-[PPT](/assets/Probability_and_Statistics.pptx)
+[PPT](assets/Probability_And_Statistics.pptx)
 
 - Spearheaded exploratory data analysis and hypothesis testing on a government awards dataset, uncovering valuable insights into award distributions, company demographics, and regional variations in award amounts.
 - Led a team in conducting statistical analyses, including t-tests and linear regression modeling, to investigate factors influencing award amounts and assess differences between socially disadvantaged and advantaged companies across states, Georgia and Tennessee.
