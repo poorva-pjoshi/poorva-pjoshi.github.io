@@ -8,9 +8,7 @@
 
 ## Projects
 ### Child Welfare Data Analytics Initiative, XN Project
-- [Visualization 1](https://github.com/poorva-pjoshi/poorva-pjoshi.github.io/assets/163047154/ae753bf5-efab-4fae-bd1d-7c08b1eec1b6)
-- [Visualization 2](https://github.com/poorva-pjoshi/poorva-pjoshi.github.io/assets/163047154/8cbb6b2a-5a15-4494-b90e-44e56b929e63)
-- [Visualization 3](https://github.com/poorva-pjoshi/poorva-pjoshi.github.io/assets/163047154/12d152e3-634d-4ca0-804a-fd3382b8b3b7)
+[Tableau Public](https://public.tableau.com/app/profile/poorva.joshi/vizzes)
 
 - Created dynamic Tableau dashboards for KARA's book "America's Children in 100 Charts", using data visualization techniques to analyze big data from 2014-2022, including the impact of COVID-19 on child abuse reporting and intervention efforts.
 - Ensured data accuracy and consistency by addressing missing data from NCANDS and Kids Count sources during the pandemic, and visualizing critical metrics such as maltreatment types, agency response times, and demographic distributions.
@@ -27,7 +25,7 @@
 - Utilized advanced machine learning techniques and attained an F1-score of 0.8653 in predicting student dropout rates from courses.
 
 ### Expense Analyzer, Data Visualization
-[Tableau File](/assets/Data_Visualization_NYC_Crime_Data.twbx)
+[Tableau Public](https://public.tableau.com/app/profile/poorva.joshi/viz/NYCCrimesin2023/NYCCrimeStory)
 
 -  Created various dashboards using data visualization tools like Tableau and Qlik by analyzing real-world data provided by the City of Boston to better understand the accounts receivable to the municipality.
 -  Identified patterns and trends in the spending of the Health Insurance department over the period of 5 years.
