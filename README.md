@@ -32,18 +32,18 @@
 -  Developed multiple interactive Tableau dashboards and compelling data stories for NYC crime data, enhancing data-driven decision-making for policymakers and law enforcement by visualizing key crime trends and demographics.
 -  Reduced analysis time by 40% through the implementation of automated data visualizations, allowing quicker identification of crime hotspots and demographic patterns.
 
+### Airline Passenger Satisfaction, Intermediate Analytics 
+[R Code](https://github.com/poorva-pjoshi/airline_passenger_satisfaction)
+
+- The project involved a comprehensive statistical analysis aimed at understanding airline customer satisfaction and predicting flight distances. Team members collaborated to perform exploratory data analysis (EDA), data cleaning, transformation, and visualization using R.
+- Contributed to various aspects of the analysis, including interpreting descriptive statistics, correlation analysis, and implementing regression models to evaluate performance and gain valuable insights.
+- The project's goal was to provide actionable recommendations for enhancing customer experience and informing strategic decision-making in the aviation sector.
+
 ### Event Management System, DBMS
 [PDF](/assets/DBMS_EventManagementSystem.pdf)
 
 -  Developed a sophisticated event management system, featuring a meticulously designed relational database using ERD techniques.
 -  Successfully created a seamless attendee registration and speaker coordination process by using MySQL.
-
-### Airline Passenger Satisfaction 
-[PDF](/assets/Airline_Passenger_Satisfaction.pdf)
-
-- The project involved a comprehensive statistical analysis aimed at understanding airline customer satisfaction and predicting flight distances. Team members collaborated to perform exploratory data analysis (EDA), data cleaning, transformation, and visualization using R.
-- Contributed to various aspects of the analysis, including interpreting descriptive statistics, correlation analysis, and implementing regression models to evaluate performance and gain valuable insights.
-- The project's goal was to provide actionable recommendations for enhancing customer experience and informing strategic decision-making in the aviation sector.
 
 ### Exploratory Analysis and Hypothesis Testing on Government Awards Dataset
 [PPT](/assets/Probability_and_Statistics.pptx)
