@@ -18,6 +18,8 @@
 - Crafted interactive dashboards with PowerBI and Tableau to analyze urban tree data, and used big data technologies like Hadoop to perform data loading and data cleaning.
 - Engineered predictive models using PySpark and Python with Decision Tree and Random Forest algorithms to assess urban tree health, achieving accuracies of 82.096% and 82.685% respectively.
 
+[NYC Tree Data PowerBI Dashboard](assets/Tree_Data_Tableau_Img.png)
+
 ### Stay or Stray @ DataScience Hub Hackathon (March 2024 - April 2024)
 [Results](https://www.kaggle.com/competitions/stay-or-stray/leaderboard)
 
