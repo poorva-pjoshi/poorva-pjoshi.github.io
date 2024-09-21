@@ -6,12 +6,29 @@
 - M.S., Analytics	| Northeastern University (_June 2025_)	 			        		
 - B.E, Electronics and Communication Engineering | Visveswaraya Technological University (_Aug 2020_)
 
+## Work Experience
+**Data Analytics Intern @AmalgamRx, Delaware, US (_Sept 2024 - Present_)**
+- Migration of healthcare dashboards from Looker to Tableau, while leveraging Python for automating business intelligence processes and developing new dashboards.
+- Managing ad-hoc data requests by efficiently retrieving and analyzing data from SQL databases using Snowflake to support critical business operations.
+
+**Data Analyst @Infosys Limited, Bangalore, India (_June 2021 - July 2023_)**
+- Integrated the APIs captured from automating insurance-domain web applications and stored in JSON format for data analysis.
+- Directed global database migrations using SQL, achieving a 99% match for data validation post-migration, resulting in a $100k reduction in expenses.
+- Orchestrated seamless data warehousing integration using SQL for data-driven reporting and visualizations in PowerBI.
+- Implemented ETL processes to collect, clean, and process data from various sources, leveraging SQL databases for enhanced analytics.
+
+**Business Analyst @IMA Management & Technology, Sydney, Australia (_May 2020 - April 2021_)**
+- Spearheaded the development of a website solely by gathering data and documenting business requirements.
+- Coordinated internal migration initiative for moving the database from Google Suite to Microsoft 365.
+- Migrated all client-related Project Status Reports to SharePoint, saving 10 hours per week per consultant through automation and achieving a 20% cost reduction by streamlining processes.
+- Carried out data management duties, including data entry, cleansing, and retrieval, and correspondence with Australian consultants.
+
 ## Projects
 ### Child Welfare Data Analytics Initiative, XN Project (April 2024 - June 2024)
 [Tableau Public](https://public.tableau.com/app/profile/poorva.joshi/vizzes)
 
 - Created dynamic Tableau dashboards for KARA's book "America's Children in 100 Charts", using data visualization techniques to analyze big data from 2015-2022, including the impact of COVID-19 on child abuse reporting and intervention efforts.
-- Ensured data accuracy and consistency by addressing missing data from NCANDS and Kids Count sources during the pandemic, and visualizing critical metrics such as maltreatment types, agency response times, and demographic distributions.
+- Ensured data accuracy and consistency by addressing missing data from NCANDS, CPS, UNICEF and Kids Count sources during the pandemic, and visualizing critical metrics such as maltreatment types, agency response times, and demographic distributions.
 
 ### NYC Tree Health Forecasting, Big Data Management (April 2024 - May 2024)
 [Jupyter Notebook](https://github.com/poorva-pjoshi/nyc_tree_health_forecasting_bigdata)
@@ -52,17 +69,3 @@
 - Spearheaded exploratory data analysis and hypothesis testing on a government awards dataset, uncovering valuable insights into award distributions, company demographics, and regional variations in award amounts.
 - Led a team in conducting statistical analyses, including t-tests and linear regression modeling, to investigate factors influencing award amounts and assess differences between socially disadvantaged and advantaged companies across states, Georgia and Tennessee.
 - Additionally, utilized data visualization techniques such as bar plots, box plots, and heatmaps to communicate findings effectively.
-
-
-## Work Experience
-**Data Analyst @ Infosys Limited (_June 2021 - July 2023_)**
-- Integrated APIs captured from automating insurance-domain web applications and stored in JSON format for data analysis.
-- Directed global database migrations using SQL, achieving a 99% match for data validation post-migration, resulting in a $100k reduction in expenses.
-- Orchestrated seamless data warehousing integration using SQL for data-driven reporting and visualizations in PowerBI.
-- Implemented ETL processes to collect, clean, and process data from various sources, leveraging SQL databases for enhanced analytics.
-
-**Business Analyst @ IMA Management & Technology (_May 2020 - April 2021_)**
-- Spearheaded the development of a website solely by gathering data and documenting business requirements.
-- Coordinated internal migration initiative for moving the database from Google Suite to Microsoft 365.
-- Migrated all client-related Project Status Reports to SharePoint, saving 10 hours per week per consultant through automation and achieving a 20% cost reduction by streamlining processes.
-- Carried out data management duties, including data entry, cleansing, and retrieval, and correspondence with Australian consultants.
