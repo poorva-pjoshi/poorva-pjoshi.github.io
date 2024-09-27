@@ -7,7 +7,7 @@
 - B.E, Electronics and Communication Engineering | Visveswaraya Technological University (_Aug 2020_)
 
 ## Work Experience
-**Data Analytics Intern @AmalgamRx, Delaware, US (_Sept 2024 - Present_)**
+**Data Analytics Intern @AmalgamRx, Delaware, United States (_Sept 2024 - Present_)**
 - Migration of healthcare dashboards from Looker to Tableau, while leveraging Python for automating business intelligence processes and developing new dashboards.
 - Managing ad-hoc data requests by efficiently retrieving and analyzing data from SQL databases using Snowflake to support critical business operations.
 
