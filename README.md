@@ -8,8 +8,9 @@
 
 ## Work Experience
 **Data Analytics Intern @AmalgamRx, Delaware, United States (_Sept 2024 - Present_)**
-- Migration of healthcare dashboards from Looker to Tableau, while leveraging Python for automating business intelligence processes and developing new dashboards.
-- Managing ad-hoc data requests by efficiently retrieving and analyzing data from SQL databases using Snowflake to support critical business operations.
+- Utilizing business intelligence processes to generate new Tableau dashboards for an Alzheimer's caregiver support app, assessing the relevance and accuracy of the AI chatbot responses in relation to the caregiver queries.
+- Retrieval and analysis of healthcare data from SQL databases using Snowflake to support colorectal cancer screening operations, identifying and reducing duplicate data entries by 15%.
+- Validating the data quality in the databases using Python's Great Expectations library and documenting results to improve the accuracy of patient information.
 
 **Data Analyst @Infosys Limited, Bangalore, India (_June 2021 - July 2023_)**
 - Integrated the APIs captured from automating insurance-domain web applications and stored in JSON format for data analysis.
