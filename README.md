@@ -1,6 +1,6 @@
 # Data Analyst
 
-#### Technical Skills: Python, R, SQL, Power BI, Tableau, Java, JavaScript
+#### Technical Skills: Python, R, SQL, SQL Server, Power BI, Tableau, Java, C++
 
 ## Education							       		
 - M.S., Analytics	| Northeastern University (_June 2025_)	 			        		
@@ -8,21 +8,19 @@
 
 ## Work Experience
 **Data Analytics Intern @AmalgamRx, Delaware, United States (_Sept 2024 - Present_)**
-- Utilizing business intelligence processes to generate new Tableau dashboards for an Alzheimer's caregiver support app, assessing the relevance and accuracy of the AI chatbot responses in relation to the caregiver queries.
-- Retrieval and analysis of healthcare data from SQL databases using Snowflake to support colorectal cancer screening operations, identifying and reducing duplicate data entries by 15%.
-- Validating the data quality in the databases using Python's Great Expectations library and documenting results to improve the accuracy of patient information.
+- Utilizing business intelligence processes to generate new Tableau and LookerStudio dashboards for an Alzheimer's support app, assessing the relevance and accuracy of the AI chatbot responses to caregiver queries.
+- Retrieval and analysis of healthcare data from PostgreSQL databases using Snowflake to support colorectal cancer screening operations and fulfill ad-hoc data requests, identifying and reducing duplicate data entries by 15%.
+- Validating the data quality using Python's Great Expectations library and improving patient information accuracy by 70%.
 
 **Data Analyst @Infosys Limited, Bangalore, India (_June 2021 - July 2023_)**
-- Integrated the APIs captured from automating insurance-domain web applications and stored in JSON format for data analysis.
-- Directed global database migrations using SQL, achieving a 99% match for data validation post-migration, resulting in a $100k reduction in expenses.
-- Orchestrated seamless data warehousing integration using SQL for data-driven reporting and visualizations in PowerBI.
-- Implemented ETL processes to collect, clean, and process data from various sources, leveraging SQL databases for enhanced analytics.
+- Built ETL pipelines to extract insurance-domain data from 10+ sources including APIs, and loaded it into systems aligned with business stakeholders' requirements
+- Migrated 50+ database objects, including critical datasets and schemas, as part of a global database migration, ensuring 99% data validation accuracy and saving $100k in operational costs.
+- Developed ~15 PowerBI dashboards for data-driven reporting to enhance business analysis and decision-making insights.
 
 **Business Analyst @IMA Management & Technology, Sydney, Australia (_May 2020 - April 2021_)**
-- Spearheaded the development of a website solely by gathering data and documenting business requirements.
-- Coordinated internal migration initiative for moving the database from Google Suite to Microsoft 365.
-- Migrated all client-related Project Status Reports to SharePoint, saving 10 hours per week per consultant through automation and achieving a 20% cost reduction by streamlining processes.
-- Carried out data management duties, including data entry, cleansing, and retrieval, and correspondence with Australian consultants.
+- Led the development of a website by independently gathering and analyzing business requirements, reducing project turnaround time by 30%.
+- Migrated all client-related project reports to SharePoint, performing data management duties, including data entry, cleaning, and retrieval tasks to improve data accuracy and consistency by 95%.
+- Developed detailed user guides for the new website, explaining its features and functionality, and documented project statuses and gaps identified during the migration process to enhance future reporting.
 
 ## Projects
 ### Child Welfare Data Analytics Initiative, XN Project (April 2024 - June 2024)
