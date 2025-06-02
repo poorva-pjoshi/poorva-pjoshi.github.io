@@ -3,11 +3,11 @@
 #### Technical Skills: Python, R, PostgreSQL, SQL Server, Power BI, Tableau, Java, C++
 
 ## Education							       		
-- M.S., Analytics	| Northeastern University (_June 2025_)	 			        		
-- B.E, Electronics and Communication Engineering | Visveswaraya Technological University (_Aug 2020_)
+- Master of Science, Analytics	| Northeastern University (_June 2025_)	 			        		
+- Bachelor of Engineering, Electronics and Communication Engineering | Visveswaraya Technological University (_Aug 2020_)
 
 ## Work Experience
-**Data Analytics Intern @AmalgamRx, Delaware, United States (_Sept 2024 - Present_)**
+**Data Analytics Intern @AmalgamRx, Delaware, United States (_Sept 2024 - April 2025_)**
 - Analyzed 15M healthcare records by pre-aggregating data with PostgreSQL and validating multiple BI Dashboards using SQL Server to optimize Colorectal Cancer Screening operations.
 - Designed dynamic dashboards in Tableau and LookerStudio to test AI chatbot interactions and track key caregiver engagement metrics for an Alzheimer's support app, improving overall user experience by 25%.
 - Leveraged Python and A/B Testing in Excel to measure the effect of metadata changes on provider acceptance rates, reducing clinical decision support errors by 15%.
@@ -23,6 +23,11 @@
 - Authored detailed user guides, conducted gap analyses, and identified areas for process improvements to refine future projects.
 
 ## Projects
+### ML-Driven Traumatic Brain Injury Digital Phenotyping Platform (April 2025 - Present)
+- Engineered ETL pipeline to process 187K+ Traumatic Brain Injury’s symptom records, reducing data preparation time by 75% and enabling real-time patient analysis.
+- Applied unsupervised ML models like K-Means, DBSCAN & XGBoost to identify patient phenotypes with 87% accuracy.
+- Built a React.js website with integrated PowerBI dashboards, allowing providers to identify high-risk patients 40% faster.
+
 ### Child Welfare Data Analytics Initiative, XN Project (April 2024 - June 2024)
 [Tableau Public](https://public.tableau.com/app/profile/poorva.joshi/vizzes)
 
