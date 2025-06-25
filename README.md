@@ -24,7 +24,8 @@
 
 ## Projects
 ### Privacy-Preserving Stroke Prediction Framework (May 2025 - June 2025)
-[Result](/assets/DBMS_EventManagementSystem.pdf)
+[Results](/assets/Fairness-Aware_Stroke_Prediction_Plot)
+
 - Designed a stroke risk prediction framework using Random Forest Classifier, achieving 95% accuracy on a highly imbalanced dataset (1.5% positive cases), demonstrating accuracy limitations in healthcare models.
 - Developed a privacy-preserving model under data governance principles by removing sensitive features (gender, age), improving fairness while maintaining ~95% accuracy.
 - Proposed SMOTE (Synthetic Minority Oversampling Technique) solution to handle class imbalance, increasing stroke case recall from 1% to 16% - a 15x improvement.
