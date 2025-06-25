@@ -24,11 +24,11 @@
 
 ## Projects
 ### Privacy-Preserving Stroke Prediction Framework (May 2025 - June 2025)
-[Results](/assets/Fairness-Aware_Stroke_Prediction_Plot)
-
 - Designed a stroke risk prediction framework using Random Forest Classifier, achieving 95% accuracy on a highly imbalanced dataset (1.5% positive cases), demonstrating accuracy limitations in healthcare models.
 - Developed a privacy-preserving model under data governance principles by removing sensitive features (gender, age), improving fairness while maintaining ~95% accuracy.
 - Proposed SMOTE (Synthetic Minority Oversampling Technique) solution to handle class imbalance, increasing stroke case recall from 1% to 16% - a 15x improvement.
+
+![Fairness-Aware_Stroke_Prediction_Plot](https://github.com/user-attachments/assets/3234de89-224b-4516-a021-096e6350889c)
 
 ### ML-Driven Traumatic Brain Injury Digital Phenotyping Platform (April 2025 - June 2025)
 - Engineered ETL pipeline to process 187K+ Traumatic Brain Injury’s symptom records, reducing data preparation time by 75% and enabling real-time patient analysis.
