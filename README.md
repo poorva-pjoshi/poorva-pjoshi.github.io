@@ -23,7 +23,13 @@
 - Authored detailed user guides, conducted gap analyses, and identified areas for process improvements to refine future projects.
 
 ## Projects
-### ML-Driven Traumatic Brain Injury Digital Phenotyping Platform (April 2025 - Present)
+### Privacy-Preserving Stroke Prediction Framework (May 2025 - June 2025)
+[Result](/assets/DBMS_EventManagementSystem.pdf)
+- Designed a stroke risk prediction framework using Random Forest Classifier, achieving 95% accuracy on a highly imbalanced dataset (1.5% positive cases), demonstrating accuracy limitations in healthcare models.
+- Developed a privacy-preserving model under data governance principles by removing sensitive features (gender, age), improving fairness while maintaining ~95% accuracy.
+- Proposed SMOTE (Synthetic Minority Oversampling Technique) solution to handle class imbalance, increasing stroke case recall from 1% to 16% - a 15x improvement.
+
+### ML-Driven Traumatic Brain Injury Digital Phenotyping Platform (April 2025 - June 2025)
 - Engineered ETL pipeline to process 187K+ Traumatic Brain Injury’s symptom records, reducing data preparation time by 75% and enabling real-time patient analysis.
 - Applied unsupervised ML models like K-Means, DBSCAN & XGBoost to identify patient phenotypes with 87% accuracy.
 - Built a React.js website with integrated PowerBI dashboards, allowing providers to identify high-risk patients 40% faster.
