@@ -3,7 +3,7 @@
 #### Technical Skills: Python, R, PostgreSQL, SQL Server, Power BI, Tableau, Java, C++
 
 ## Education							       		
-- Master of Science, Analytics	| Northeastern University (_June 2025_)	 			        		
+- Master of Science, Analytics, AI	| Northeastern University (_June 2025_)	 			        		
 - Bachelor of Engineering, Electronics and Communication Engineering | Visveswaraya Technological University (_Aug 2020_)
 
 ## Work Experience
