@@ -27,11 +27,12 @@
 - Engineered ETL pipeline to process 187K+ Traumatic Brain Injury’s symptom records, reducing data preparation time by 75% and enabling real-time patient analysis.
 - Applied unsupervised ML models like K-Means, DBSCAN & XGBoost to identify patient phenotypes with 87% accuracy.
 - Built a React.js website with integrated PowerBI dashboards, allowing providers to identify high-risk patients 40% faster.
+- 
 ![User Dashboard- Executive Summary 1](assets/Executive_Overview1.png)
 ![User Dashboard- Executive Summary 2](assets/Executive_Overview2.png)
 ![User Dashboard- Patient Demographics](assets/Patient_Demographics.png)
-![User Dashboard- Injury Analysis and Insights 1](assets/Injury_Analysis_and_Insights_1.png)
-![User Dashboard- Injury Analysis and Insights 2](assets/Injury_Analysis_and_Insights_2.png)
+![User Dashboard- Injury Analysis and Insights 1](assets/Injury_Analysis_and_Insights1.png)
+![User Dashboard- Injury Analysis and Insights 2](assets/Injury_Analysis_and_Insights2.png)
 
 ### Child Welfare Data Analytics Initiative, XN Project (April 2024 - June 2024)
 [Tableau Public](https://public.tableau.com/app/profile/poorva.joshi/vizzes)
