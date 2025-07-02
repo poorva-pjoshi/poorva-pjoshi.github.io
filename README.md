@@ -27,7 +27,7 @@
 - Engineered ETL pipeline to process 187K+ Traumatic Brain Injury’s symptom records, reducing data preparation time by 75% and enabling real-time patient analysis.
 - Applied unsupervised ML models like K-Means, DBSCAN & XGBoost to identify patient phenotypes with 87% accuracy.
 - Built a React.js website with integrated PowerBI dashboards, allowing providers to identify high-risk patients 40% faster.
-- 
+
 ![User Dashboard- Executive Summary 1](assets/Executive_Overview1.png)
 ![User Dashboard- Executive Summary 2](assets/Executive_Overview2.png)
 ![User Dashboard- Patient Demographics](assets/Patient_Demographics.png)
