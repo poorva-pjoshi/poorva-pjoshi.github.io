@@ -38,8 +38,8 @@
 ### NYC Tree Health Forecasting, Big Data Management (April 2024 - May 2024)
 [Jupyter Notebook](https://github.com/poorva-pjoshi/nyc_tree_health_forecasting_bigdata)
 
-- Crafted interactive dashboards with PowerBI and Tableau to analyze urban tree data, and used big data technologies like Hadoop to perform data loading and data cleaning.
-- Engineered predictive models using PySpark and Python with Decision Tree and Random Forest algorithms to assess urban tree health, achieving accuracies of 82.096% and 82.685% respectively.
+- Built predictive models in PySpark and Python using Decision Tree and Random Forest algorithms to assess urban tree health, achieving 82.096% and 82.685% accuracy, supporting data-driven conservation strategies.
+- Developed interactive Tableau and PowerBI dashboards after comprehensive data loading, cleaning, and modeling with Hadoop and PySpark, empowering planners to visualize health determinants and optimize urban green spaces.
 
 ![NYC Tree Data PowerBI Dashboard](assets/Tree_Data_Tableau_Img.png)
 
