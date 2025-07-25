@@ -1,28 +1,35 @@
-# Data Analyst
+# Data Analyst, Business Intelligence Engineer, Business Analyst
 
-#### Technical Skills: Python, R, PostgreSQL, SQL Server, Power BI, Tableau, Java, C++
+#### TECHNICAL SKILLS: Python, R, PostgreSQL, SQLServer, Power BI, Tableau, Java, C++, Machine Learning, Statistical Analysis, ETL
 
-## Education							       		
-- Master of Science, Analytics, AI	| Northeastern University (_June 2025_)	 			        		
+## EDUCATION							       		
+- Master of Science, Data Analytics, AI	| Northeastern University (_June 2025_)	 			        		
 - Bachelor of Engineering, Electronics and Communication Engineering | Visveswaraya Technological University (_Aug 2020_)
 
-## Work Experience
+## WOR EXPERIENCE
 **Data Analytics Intern @AmalgamRx, Delaware, United States (_Sept 2024 - April 2025_)**
 - Analyzed 15M healthcare records by pre-aggregating data with PostgreSQL and validating multiple BI Dashboards using SQL Server to optimize Colorectal Cancer Screening operations.
 - Designed dynamic dashboards in Tableau and LookerStudio to test AI chatbot interactions and track key caregiver engagement metrics for an Alzheimer's support app, improving overall user experience by 25%.
 - Leveraged Python and A/B Testing in Excel to measure the effect of metadata changes on provider acceptance rates, reducing clinical decision support errors by 15%.
+-	Validated data accuracy in Snowflake using optimized SQL queries with CTEs and joins, saving ~25hrs/month in QA tasks.
 
 **Data Analyst @Infosys Limited, Bangalore, India (_June 2021 - July 2023_)**
 - Built ETL pipelines using SQL in Dbeaver to integrate insurance data from 10+ sources, supporting strategic business decisions and saving $100k in operational costs.
-- Migrated over 50 database objects as part of a global system upgrade, achieving 95% data validation accuracy through automated data quality checks and rigorous testing.
-- Created 10+ PowerBI dashboards to enhance decision-making by providing real-time insights for stakeholders.
+- Migrated over 50 database objects as part of a global system upgrade, achieving 95% data validation accuracy, minimizing system downtime and post-migration defects.
+- Created 10+ PowerBI dashboards to monitor KPIs and website engagement metrics for weekly users, which led to 12% increase in user session duration.
+- Automated scripts in Java to validate and process incoming APIs from websites, reducing manual review time by 5x and lowering defect rates in data pipelines.
 
 **Business Analyst @IMA Management & Technology, Sydney, Australia (_May 2020 - April 2021_)**
 - Led the development of a corporate website by gathering and analyzing business requirements, collaborating with cross-functional teams, and cutting project turnaround time by 30%.
-- Migrated client-related project reports to SharePoint, by performing data management duties, including data entry, cleaning, and retrieval tasks to improve data accuracy and consistency by 99%.
-- Authored detailed user guides, conducted gap analyses, and identified areas for process improvements to refine future projects.
+- Analyzed user journeys and funnel drop-offs using Google Analytics, identifying a 40% bounce rate on key landing pages and providing insights that improved conversion rates by 18%.
+- Migrated client-related project reports to SharePoint, by performing data management duties, including data entry, cleaning, and retrieval tasks to improve data accuracy by 99%, and reducing report retrieval time from 15 minutes to under 2 minutes.
+- Authored detailed user guides, conducted gap analyses, and identified areas for process improvements, leading to enhanced project efficiency and stakeholder satisfaction.
 
-## Projects
+## CERTIFICATIONS
+- Apache Airflow 3 Fundamentals, Astronormer Certification
+- Databricks Fundamentals
+
+## PROJECTS
 ### ML-Driven Traumatic Brain Injury Digital Phenotyping Platform (April 2025 - June 2025)
 [User Dashboard](https://github.com/poorva-pjoshi/Traumatic-Brain-Injury-Digital-Phenotyping-Platform)
 - Engineered ETL pipeline to process 187K+ Traumatic Brain Injury’s symptom records, reducing data preparation time by 75% and enabling real-time patient analysis.
