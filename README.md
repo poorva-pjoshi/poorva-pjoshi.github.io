@@ -1,4 +1,4 @@
-# Data Analyst
+# Data Analyst | Business Analyst
 
 #### TECHNICAL SKILLS: Python, R, PostgreSQL, SQLServer, Power BI, Tableau, Java, C++, Machine Learning, Statistical Analysis, ETL
 
