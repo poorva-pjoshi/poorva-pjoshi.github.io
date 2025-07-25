@@ -1,4 +1,4 @@
-# Data Analyst, Business Intelligence Engineer, Business Analyst
+# Data Analyst
 
 #### TECHNICAL SKILLS: Python, R, PostgreSQL, SQLServer, Power BI, Tableau, Java, C++, Machine Learning, Statistical Analysis, ETL
 
@@ -6,7 +6,7 @@
 - Master of Science, Data Analytics, AI	| Northeastern University (_June 2025_)	 			        		
 - Bachelor of Engineering, Electronics and Communication Engineering | Visveswaraya Technological University (_Aug 2020_)
 
-## WOR EXPERIENCE
+## WORk EXPERIENCE
 **Data Analytics Intern @AmalgamRx, Delaware, United States (_Sept 2024 - April 2025_)**
 - Analyzed 15M healthcare records by pre-aggregating data with PostgreSQL and validating multiple BI Dashboards using SQL Server to optimize Colorectal Cancer Screening operations.
 - Designed dynamic dashboards in Tableau and LookerStudio to test AI chatbot interactions and track key caregiver engagement metrics for an Alzheimer's support app, improving overall user experience by 25%.
