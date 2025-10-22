@@ -4,33 +4,34 @@
 
 ## EDUCATION							       		
 - Master of Science, Data Analytics, AI	| Northeastern University (_June 2025_)
-- CodePath Technical Interview Prep (_TIP102, 2025_)			        		
+- CodePath Technical Interview Prep | (_TIP102, 2025_)			        		
 - Bachelor of Engineering, Electronics and Communication Engineering | Visveswaraya Technological University (_Aug 2020_)
 
 ## WORK EXPERIENCE
 **Data Science and BI Intern @AmalgamRx, Delaware, USA (_Sept 2024 - April 2025_)**
-- Analyzed 15M healthcare records by pre-aggregating data with PostgreSQL and validating multiple BI Dashboards using SQL Server to optimize Colorectal Cancer Screening operations.
-- Designed dynamic dashboards in Tableau and LookerStudio to test AI chatbot interactions and track key caregiver engagement metrics for an Alzheimer's support app, improving overall user experience by 25%.
-- Leveraged Python and A/B Testing in Excel to measure the effect of metadata changes on provider acceptance rates, reducing clinical decision support errors by 15%.
--	Validated data accuracy in Snowflake using optimized SQL queries with CTEs and joins, saving ~25hrs/month in QA tasks.
+- Conducted EDA and correlation analysis on 15M+ patient records using PostgreSQL and Alteryx, identifying procedural delays in Colorectal Cancer Screening workflows and influencing workflow redesign in provider networks.
+- Designed Tableau and LookerStudio dashboards to track KPIs for AI chatbot responses and retention cohorts in an Alzheimer's app, boosting user engagement by 25%, and improving DAU/MAU and funnel conversion rates by 12%.
+- Built Tableau dashboards that uncovered trends in a flu vaccine initiative, enabling leaders to improve vaccine adherence by 15% across a patient population of 120K+.
+- Developed data pipelines from APIs and databases into Snowflake on AWS and validated data accuracy in using advanced SQL queries (CTEs, joins, schema validation) and Great Expectations, reducing manual data review by 25+ hours monthly.
+- Validated data accuracy in Snowflake using advanced SQL queries (CTEs, joins, schema validation) and Python’s Great Expectations library, reducing manual data review by 25+ hours monthly and accelerating clinical release cycles.
 
 **Graduate Teaching Assistant @Northeastern University, Boston, USA (_Jan 2024 – June 2024_)**
 - Mentored 80+ students on Python, SQL optimization and data modeling; taught EDA best practices and statistical model building, improving project scores by 22% through mentorship, peer code reviews, and Agile practices.
 - Developed course materials, graded assignments, and led 12 Scrum sessions, enabling 85% of students to earn an A grade.
 
 **Data Analyst @Infosys Limited, Bangalore, India (_June 2021 - July 2023_)**
-- Built ETL pipelines using SQL in Dbeaver to integrate insurance data from 10+ sources, supporting strategic business decisions and saving $100k in operational costs.
-- Migrated over 50 database objects as part of a global system upgrade, achieving 95% data validation accuracy, minimizing system downtime and post-migration defects.
-- Created 10+ PowerBI dashboards to monitor KPIs and website engagement metrics for weekly users, which led to 12% increase in user session duration.
-- Automated scripts in Java to validate and process incoming APIs from websites, reducing manual review time by 5x and lowering defect rates in data pipelines.
-
-**Business Analyst @IMA Management & Technology, Sydney, Australia (_May 2020 - April 2021_)**
 - Engineered robust ETL pipelines in Python and SQL to integrate data from 10+ insurance databases into BigQuery, streamlining analytics workflows and saving $100K in yearly operational costs.
 - Designed 10+ Power BI dashboards tracking KPIs on client records, claims, customer retention, and web engagement, improving weekly session duration by 12% and raising user retention by 10%.
 - Led SQL regression validation for 50+ Redshift database components during a global migration, achieving 95% data validation accuracy, reducing post-migration defects and preventing ~$250K in SLA penalties.
 - Developed Java automation scripts to process and validate inbound web API data, reducing QA time by 30+hrs/month and lowering defect rates by 35% in CI/CD data pipelines.
 - Served as the analytics lead for two enterprise insurance web apps, driving Agile sprints and consolidating APIs and Redshift data into a Power BI KPI suite that improved dashboard adoption by 40%.
 - Deployed time-series forecasting model and ML-based rule validation models (classification & anomaly detection) on claims data, improving fraud/irregularity detection accuracy and cutting manual reviews by 30+ hrs/month.
+
+**Business Analyst @IMA Management & Technology, Sydney, Australia (_May 2020 - April 2021_)**
+- Facilitated Agile sprint ceremonies by gathering business requirements in JIRA for a corporate website development, consolidating clickstream data from APIs, accelerated requirement turnaround and reduced project cycle time by 30%.
+- Performed EDA on Google Analytics data to detect user behavior trends, identifying 40% bounce rates on landing pages and boosted conversions by 18%, generating ~$200K in incremental revenue.
+- Migrated 100+ client reports to SharePoint and restructured metadata schemas with custom tagging logic, reducing average search time from 15 minutes to under 2 and enhancing retrieval accuracy by 99%.
+- Built automated Excel KPI reports, and maintained Confluence documentations on data definitions and metrics, enhancing data literacy, boosting project efficiency by 20% and cross-team decision-making.
 
 ## CERTIFICATIONS
 - Apache Airflow 3 Fundamentals, Astronormer Certification
