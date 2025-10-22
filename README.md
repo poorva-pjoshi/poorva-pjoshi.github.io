@@ -8,6 +8,10 @@
 - Bachelor of Engineering, Electronics and Communication Engineering | Visveswaraya Technological University (_Aug 2020_)
 
 ## WORK EXPERIENCE
+**Data Science Intern @IpserLab, Boston, USA (_Sept 2025 - Present_)**
+- Collaborated with product managers and engineers in agile sprints to optimize analytics, identify classification biases and perform EDA for an AI trip planner, enhancing model fairness by 15% and improving tracking efficiency by 50%.
+- Partnered cross-functionally to manage 40+ analytics and QA initiatives, boosting data accuracy by 25% through SQL/Python validation pipelines and Git-based workflows.
+
 **Data Science and BI Intern @AmalgamRx, Delaware, USA (_Sept 2024 - April 2025_)**
 - Conducted EDA and correlation analysis on 15M+ patient records using PostgreSQL and Alteryx, identifying procedural delays in Colorectal Cancer Screening workflows and influencing workflow redesign in provider networks.
 - Designed Tableau and LookerStudio dashboards to track KPIs for AI chatbot responses and retention cohorts in an Alzheimer's app, boosting user engagement by 25%, and improving DAU/MAU and funnel conversion rates by 12%.
