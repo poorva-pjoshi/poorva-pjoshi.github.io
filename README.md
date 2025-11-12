@@ -4,45 +4,46 @@
 
 ## EDUCATION							       		
 - Master of Science, Data Analytics, AI	| Northeastern University (_June 2025_)
-- CodePath Technical Interview Prep | (_TIP102, 2025_)			        		
+- CodePath Technical Interview Prep | (_TIP102, Fall 2025_)			        		
 - Bachelor of Engineering, Electronics and Communication Engineering | Visveswaraya Technological University (_Aug 2020_)
 
 ## WORK EXPERIENCE
-**Data Science Intern @IpserLab, Boston, USA (_Sept 2025 - Present_)**
+**Data Analyst, Product Manager Intern @IpserLab, Boston, USA (_Sept 2025 - Present_)**
 - Collaborated with product managers and engineers in agile sprints to optimize analytics, identify classification biases and perform EDA for an AI trip planner, enhancing model fairness by 15% and improving tracking efficiency by 50%.
 - Partnered cross-functionally to manage 40+ analytics and QA initiatives, boosting data accuracy by 25% through SQL/Python validation pipelines and Git-based workflows.
 
-**Data Science and BI Intern @AmalgamRx, Delaware, USA (_Sept 2024 - April 2025_)**
-- Conducted EDA and correlation analysis on 15M+ patient records using PostgreSQL and Alteryx, identifying procedural delays in Colorectal Cancer Screening workflows and influencing workflow redesign in provider networks.
+**Business Analyst and BI Intern @AmalgamRx, Delaware, USA (_Sept 2024 - April 2025_)**
+- Conducted EDA and correlation analysis on 15M+ patient records using PostgreSQL and Alteryx, identifying procedural delays in Colorectal Cancer Screening workflows in Visio and influencing workflow redesign in provider networks.
 - Designed Tableau and LookerStudio dashboards to track KPIs for AI chatbot responses and retention cohorts in an Alzheimer's app, boosting user engagement by 25%, and improving DAU/MAU and funnel conversion rates by 12%.
-- Built Tableau dashboards that uncovered trends in a flu vaccine initiative, enabling leaders to improve vaccine adherence by 15% across a patient population of 120K+.
+- Built Tableau dashboards that uncovered trends in a flu vaccine initiative, enabling process improvements that raised vaccine adherence by 15% across a patient population of 120K+.
 - Developed data pipelines from APIs and databases into Snowflake on AWS and validated data accuracy in using advanced SQL queries (CTEs, joins, schema validation) and Great Expectations, reducing manual data review by 25+ hours monthly.
-- Validated data accuracy in Snowflake using advanced SQL queries (CTEs, joins, schema validation) and Python’s Great Expectations library, reducing manual data review by 25+ hours monthly and accelerating clinical release cycles.
+- •	Coordinated UAT cycles with product teams to validate changes; scoped and analyzed A/B testing use cases in Excel and Python on 50K+ records to improve provider acceptance rates, cutting clinical decision support errors by 15%.
 
 **Graduate Teaching Assistant @Northeastern University, Boston, USA (_Jan 2024 – June 2024_)**
 - Mentored 80+ students on Python, SQL optimization and data modeling; taught EDA best practices and statistical model building, improving project scores by 22% through mentorship, peer code reviews, and Agile practices.
 - Developed course materials, graded assignments, and led 12 Scrum sessions, enabling 85% of students to earn an A grade.
 
-**Data Analyst @Infosys Limited, Bangalore, India (_June 2021 - July 2023_)**
+**Senior Data Analyst @Infosys Limited, Bangalore, India (_June 2021 - July 2023_)**
 - Engineered robust ETL pipelines in Python and SQL to integrate data from 10+ insurance databases into BigQuery, streamlining analytics workflows and saving $100K in yearly operational costs.
 - Designed 10+ Power BI dashboards tracking KPIs on client records, claims, customer retention, and web engagement, improving weekly session duration by 12% and raising user retention by 10%.
-- Led SQL regression validation for 50+ Redshift database components during a global migration, achieving 95% data validation accuracy, reducing post-migration defects and preventing ~$250K in SLA penalties.
-- Developed Java automation scripts to process and validate inbound web API data, reducing QA time by 30+hrs/month and lowering defect rates by 35% in CI/CD data pipelines.
+- Led SQL regression validation for 50+ Redshift database components during a global migration, managing UAT execution and stakeholder sign-offs, achieving 95% data validation accuracy, reducing post-migration defects and preventing ~$250K in SLA penalties.
+- •	Coordinated UAT by preparing test cases from user stories and developed Java automation scripts by gathering requirements to validate inbound web API data, reducing QA time by 30+hrs/month and lowering defect rates by 35% in CI/CD data pipelines.
 - Served as the analytics lead for two enterprise insurance web apps, driving Agile sprints and consolidating APIs and Redshift data into a Power BI KPI suite that improved dashboard adoption by 40%.
 - Deployed time-series forecasting model and ML-based rule validation models (classification & anomaly detection) on claims data, improving fraud/irregularity detection accuracy and cutting manual reviews by 30+ hrs/month.
 
-**Business Analyst @IMA Management & Technology, Sydney, Australia (_May 2020 - April 2021_)**
+**Business Analyst, Consultant @IMA Management & Technology, Sydney, Australia (_May 2020 - April 2021_)**
 - Facilitated Agile sprint ceremonies by gathering business requirements in JIRA for a corporate website development, consolidating clickstream data from APIs, accelerated requirement turnaround and reduced project cycle time by 30%.
 - Performed EDA on Google Analytics data to detect user behavior trends, identifying 40% bounce rates on landing pages and boosted conversions by 18%, generating ~$200K in incremental revenue.
 - Migrated 100+ client reports to SharePoint and restructured metadata schemas with custom tagging logic, reducing average search time from 15 minutes to under 2 and enhancing retrieval accuracy by 99%.
-- Built automated Excel KPI reports, and maintained Confluence documentations on data definitions and metrics, enhancing data literacy, boosting project efficiency by 20% and cross-team decision-making.
+- •	Authored detailed user guides/technical documentation, led gap analyses in Excel and Confluence, and delivered actionable recommendations that increased cross-functional project efficiency by 20% and stakeholder satisfaction.
 
 ## CERTIFICATIONS
+- Oracle Cloud Infrastructure Foundations Associate
 - Apache Airflow 3 Fundamentals, Astronormer Certification
 - Databricks Fundamentals
 
 ## PROJECTS
-### Boston BlueBikes Intelligence Dashboard (April 2025 - June 2025)
+### Boston BlueBikes Intelligence Dashboard (September 2025 - Present)
 - Built comprehensive Tableau dashboard analyzing 1.9M Bluebikes records across 6 monthly datasets, revealing 200.7% seasonal growth pattern from January to June 2025 through interactive visualizations and geographic heat maps.
 - Engineered 15+ calculated fields and KPI metrics including ride duration trends, peak hour identification, and station performance metris, enabling data-driven operational insights for Boston's bike-share system.
 
