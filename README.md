@@ -1,14 +1,14 @@
 # Data Analyst | Business Analyst | BI Engineer | Data Scientist
 
-#### TECHNICAL SKILLS: Python, R, PostgreSQL, SQLServer, Power BI, Tableau, Java, C++, Machine Learning, Statistical Analysis, ETL
+#### TECHNICAL SKILLS: Python, R, PostgreSQL, SQLServer, Power BI, Tableau, Java, C++, Machine Learning, Statistical Analysis, ETL, Agile
 
 ## EDUCATION							       		
 - Master of Science, Data Analytics, AI	| Northeastern University (_June 2025_)
 - CodePath Technical Interview Prep | (_TIP102, Fall 2025_)			        		
-- Bachelor of Engineering, Electronics and Communication Engineering | Visveswaraya Technological University (_Aug 2020_)
+- B.Eng, Electronics and Communication | Visveswaraya Technological University (_Aug 2020_)
 
 ## WORK EXPERIENCE
-**Reporting Data Analyst, (Product Analytics) @IpserLab, Boston, USA (_Sept 2025 - Present_)**
+**Reporting Data Analyst (Product Analytics) @IpserLab, Boston, USA (_Sept 2025 - Present_)**
 - Collaborated with product managers and engineers in agile sprints to optimize analytics, identify classification biases and perform EDA for an AI trip planner, enhancing model fairness by 15% and improving tracking efficiency by 50%.
 - Partnered cross-functionally to manage 40+ analytics and QA initiatives, boosting data accuracy by 25% through SQL/Python validation pipelines and Git-based workflows.
 
