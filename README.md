@@ -5,7 +5,7 @@
 ## EDUCATION							       		
 - Master of Science, Data Analytics, AI	| Northeastern University (_June 2025_)
 - CodePath Technical Interview Prep | (_TIP102, Fall 2025_)			        		
-- B.Eng, Electronics and Communication | Visveswaraya Technological University (_Aug 2020_)
+- B.Engineering, Electronics and Communication | Visveswaraya Technological University (_Aug 2020_)
 
 ## WORK EXPERIENCE
 **Reporting Data Analyst (Product Analytics) @IpserLab, Boston, USA (_Sept 2025 - Present_)**
