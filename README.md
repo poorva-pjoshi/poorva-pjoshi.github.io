@@ -8,16 +8,22 @@
 - Bachelor of Engineering, Electronics and Communication Engineering | Visveswaraya Technological University (_Aug 2020_)
 
 ## WORK EXPERIENCE
-**Data Analyst, Product Manager Intern @IpserLab, Boston, USA (_Sept 2025 - Present_)**
+**Reporting Data Analyst, (Product Analytics) @IpserLab, Boston, USA (_Sept 2025 - Present_)**
 - Collaborated with product managers and engineers in agile sprints to optimize analytics, identify classification biases and perform EDA for an AI trip planner, enhancing model fairness by 15% and improving tracking efficiency by 50%.
 - Partnered cross-functionally to manage 40+ analytics and QA initiatives, boosting data accuracy by 25% through SQL/Python validation pipelines and Git-based workflows.
 
-**Business Analyst and BI Intern @AmalgamRx, Delaware, USA (_Sept 2024 - April 2025_)**
+**Data Analyst and BI Intern @AmalgamRx, Delaware, USA (_Sept 2024 - April 2025_)**
 - Conducted EDA and correlation analysis on 15M+ EHR patient records using PostgreSQL and Alteryx, identifying procedural delays in Colorectal Cancer Screening workflows in Visio and influencing workflow redesign in provider networks.
 - Designed Tableau and LookerStudio dashboards to track KPIs for AI chatbot responses and retention cohorts in an Alzheimer's app, boosting user engagement by 25%, and improving DAU/MAU and funnel conversion rates by 12%.
 - Built Tableau dashboards that uncovered trends in a flu vaccine initiative, enabling process improvements that raised vaccine adherence by 15% across a patient population of 120K+.
 - Developed data pipelines from APIs and databases into Snowflake on AWS and validated data accuracy in using advanced SQL queries (CTEs, joins, schema validation) and Great Expectations, reducing manual data review by 25+ hours monthly.
 - Coordinated UAT cycles with product teams to validate changes; scoped and analyzed A/B testing use cases in Excel and Python on 50K+ records to improve provider acceptance rates, cutting clinical decision support errors by 15%.
+- Generated executive-ready KPI reporting dashboards and documented healthcare reporting metrics in Confluence, improving stakeholder visibility into operational trends across 4+ business teams.
+
+**Data Labelling Analyst @RWS Group, Remote, USA (_Jan 2026 - Present_)**
+- Annotated 400+ multimodal samples (text, image & audio) to evaluate and benchmark AI model reasoning accuracy.
+- Reduced annotation error rates by 30% through structured quality audits and categorization of 200+ AI failure cases, lowering evaluation ambiguity by 35% across factual drift and unsafe outputs.
+
 
 **Graduate Teaching Assistant @Northeastern University, Boston, USA (_Jan 2024 – June 2024_)**
 - Mentored 80+ students on Python, SQL optimization and data modeling; taught EDA best practices and statistical model building, improving project scores by 22% through mentorship, peer code reviews, and Agile practices.
@@ -32,15 +38,16 @@
 - Deployed time-series forecasting model and ML-based rule validation models (classification & anomaly detection) on claims data, improving fraud/irregularity detection accuracy and cutting manual reviews by 30+ hrs/month.
 
 **Analytics Consultant, Consultant @IMA Management & Technology, Sydney, Australia (_May 2020 - April 2021_)**
-- Facilitated Agile sprint ceremonies by gathering business requirements in JIRA for a corporate website development, consolidating clickstream data from APIs, accelerated requirement turnaround and reduced project cycle time by 30%.
+- Facilitated Agile sprint ceremonies in Scrum environment, by gathering business requirements in JIRA for a corporate website development, consolidating clickstream data from APIs, accelerated requirement turnaround and reduced project cycle time by 30%.
 - Performed EDA on Google Analytics data to detect user behavior trends, identifying 40% bounce rates on landing pages and boosted conversions by 18%, generating ~$200K in incremental revenue.
 - Migrated 100+ client reports to SharePoint and restructured metadata schemas with custom tagging logic, reducing average search time from 15 minutes to under 2 and enhancing retrieval accuracy by 99%.
-- Authored detailed user guides/technical documentation, led gap analyses in Excel and Confluence, and delivered actionable recommendations that increased cross-functional project efficiency by 20% and stakeholder satisfaction.
+- Authored detailed user guides/technical documentation and reporting workflows, led gap analyses in Excel and Confluence, and delivered actionable recommendations that increased cross-functional project efficiency by 20% and stakeholder satisfaction.
 
 ## CERTIFICATIONS
-- Oracle Cloud Infrastructure Foundations Associate
-- Apache Airflow 3 Fundamentals, Astronormer Certification
-- Databricks Fundamentals
+- **Certified Scrum Product Owner** (_May 2026_)
+- **Oracle Cloud Infrastructure Foundations Associate** (_October 2025_)
+- **Apache Airflow 3 Fundamentals, Astronormer Certification** (_July 2025_)
+- **Databricks Fundamentals** (_May 2025_)
 
 ## PROJECTS
 ### Boston BlueBikes Intelligence Dashboard (January 2026 - Present)
